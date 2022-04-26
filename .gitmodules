@@ -1,0 +1,19 @@
+[submodule "submodules/shell-novice"]
+	path = submodules/shell-novice
+	url = https://github.com/Southampton-RSG-Training/shell-novice.git
+	branch = main
+[submodule "submodules/git-novice"]
+	path = submodules/git-novice
+	url = https://github.com/Southampton-RSG-Training/git-novice.git
+	branch = main
+[submodule "submodules/python-novice"]
+	path = submodules/python-novice
+	url = https://github.com/Southampton-RSG-Training/python-novice.git
+	branch = main
+[submodule "submodules/reveal.js"]
+	path = submodules/reveal.js
+	url = https://github.com/hakimel/reveal.js.git
+[submodule "submodules/setup-documents"]
+	path = submodules/setup-documents
+	url = https://github.com/Southampton-RSG-Training/setup-documents.git
+	branch = main
