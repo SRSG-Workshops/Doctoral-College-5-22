@@ -2,7 +2,7 @@
 # Values for this workshop.
 #------------------------------------------------------------
 # What kind of thing is this ("workshop" or "course")?
-kind: "course"
+kind: "Workshop"
 
 # Overall title for the Workshop.
 # This variable is used to (optionally) add a title in the "jumbotron"
@@ -10,104 +10,69 @@ kind: "course"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "TBC Workshop Title"
+title: "Introductory Research Software Development with Python: Session"
 
 # Specify the location of the workshop
 # TODO: needs documenting a lot better
-venue: "TBC"           # name of location use "online" if online
-address: "TBC"         # address of location or url of platform
-platform-name: "TBC"   # name of online platform e.g. Teams, Zoom e.t.c
-country: "TBC"         # e.g. gb
-language: "TBC"        # e.g. en
+venue: "Online"           # name of location use "online" if online
+address: "https://teams.microsoft.com/l/meetup-join/19%3afc609d2bc1944e9d95053ce18b0c23b9%40thread.tacv2/1647622306116?context=%7b%22Tid%22%3a%224a5378f9-29f4-4d3e-be89-669d03ada9d8%22%2c%22Oid%22%3a%220c869b34-2658-4bd5-83c5-dd780360e890%22%7d"         # address of location or url of platform
+platform-name: "Teams"   # name of online platform e.g. Teams, Zoom e.t.c
+country: "gb"         # e.g. gb
+language: "en"        # e.g. en
 latitude: "50.909698"    # latitude of location (Soton: 50.909698)
 longitude: "-1.404351"   # longitude of location (Soton: -1.404351)
 
 # Specify the start and end date of the workshop
-humandate: "TBC"      # e.g. "6th August"
-humantime: "TBC"      # e.g. "09:00-17:00"
-startdate: "TBC"        # e.g. YYYY-MM-DD
-enddate: "TBC"          # e.g. YYYY-MM-DD
+humandate: "9th May"      # e.g. "6th August"
+humantime: "09:30"      # e.g. "09:00-17:00"
+startdate: "2022-5-9"        # e.g. YYYY-MM-DD
+enddate: "2022-5-17"          # e.g. YYYY-MM-DD
 
 # Specify the details of the instructors and helpers
 # Can be list, or single string
 instructor:
-  - "Instructor 1"
-  - "Instructor 2"
+  - "Philip Grylls"
+  - "Samuel Mangham"
+  - "James Graham"
 instructor-email:
-  - "instructor1@domain.com"
-  - "instructor2@domain.com"
+  - "p.j.grylls@soton.ac.uk"
+  - "s.mangham@soton.ac.uk"
+  - "j.graham@soton.ac.uk"
 helper:
-  - "Helper 1"
-  - "Helper 2"
+  - "Edward Parkinson"
+  - "Philly Broadbent"
 
 # Details about the lessons
 lessons:
-  - title: Best Practices in Data Organisation Using Spreadsheets
-    gh-name: spreadsheets
-    type: episode
-    branch: gh-pages
-    date: 13 January 2022
-    start-time: 15:00
-    order: 1
-
-  - title: Data Cleaning with OpenRefine
-    gh-name: openrefine-data-cleaning
-    type: episode
-    branch: gh-pages
-    date: 14 January 2022
-    start-time: 15:00
-    order: 2
-
-  - title: Managing Academic Software Development
-    gh-name: project-novice
-    type: episode
-    branch: gh-pages
-    date: 10 January 2022
-    start-time: 9:30 am
-    order: 3
-
   - title: Automating Tasks with the Unix Shell  # Lesson title
     org-name: Southampton-RSG-Training           # Name of the GitHub organisation (or individual) the lesson is in defaults to Southampton-RSG-Training
     gh-name: shell-novice                        # Name of the GitHub repository for the lesson at https://github:com/{org-name}:
     type: episode                                # Currently only 'episode' or 'episode_r' is valid
-    branch: gh-pages                             # Set the branch of the repository to use, useful for lesson customization
-    date: 8 January 2022                         # The date of the lesson                   # date and start-time are required for z
-    start-time: 10:30 am                         # The start time of the lesson             # 'kind: workshop'
-    order: 4                                     # The position of the lesson in the course # order is required for 'kind: course'
+    branch: main                                 # Set the branch of the repository to use, useful for lesson customization
+    date: 9 May 2022                             # The date of the lesson                   # date and start-time are required for
+    start-time: 9:30 am                          # The start time of the lesson             # 'kind: workshop'
+    order: 1                                     # The position of the lesson in the course # order is required for 'kind: course'
 
   - title: Version Control with git
+    org-name: Southampton-RSG-Training
     gh-name: git-novice
     type: episode
-    branch: gh-pages
-    date: 9 January 2022
-    start-time: 8:30 am
-    order: 5
+    branch: main
+    date: 10 January 2022
+    start-time: 9:30 am
+    order: 2
 
   - title: Building Programs with Python
     gh-name: python-novice
     type: episode
-    branch: gh-pages
+    branch: main
     date:
-      - 11 January 2022
-      - 12 January 2022
+      - 16 May 2022
+      - 17 May 2022
     start-time:
-      - 10:00 am
-      - 10:00 am
-    order: 6
-
-  - title: Data Analysis and Visualization in R
-    gh-name: r-novice
-    type: episode_r
-    branch: gh-pages
-    date:
-      - 15 January 2022
-      - 16 January 2022
-      - 17 January 2022
-    start-time:
-      - 15:00
-      - 15:00
-      - 15:00
-    order: 7
+      - 9:30 am 
+      - 9:30 am 
+    order: 3
 
 # Specify that things in the episodes collection should be output.
 collections:
