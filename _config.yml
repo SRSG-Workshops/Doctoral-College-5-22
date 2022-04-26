@@ -12,12 +12,12 @@ kind: "workshop"
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
 
-title: "Introductory Research Software Development with Python: Session"
+title: "Introductory Research Software Development with Python"
 
 # Specify the location of the workshop
 # TODO: needs documenting a lot better
 venue: "Online"           # name of location use "online" if online
-address: "https://teams.microsoft.com/l/meetup-join/19%3afc609d2bc1944e9d95053ce18b0c23b9%40thread.tacv2/1647622306116?context=%7b%22Tid%22%3a%224a5378f9-29f4-4d3e-be89-669d03ada9d8%22%2c%22Oid%22%3a%220c869b34-2658-4bd5-83c5-dd780360e890%22%7d"         # address of location or url of platform
+address: "Please find MS teams link in GradBook or StaffBook signup"
 platform-name: "Teams"   # name of online platform e.g. Teams, Zoom e.t.c
 country: "gb"         # e.g. gb
 language: "en"        # e.g. en
