@@ -34,7 +34,6 @@ enddate: "2022-5-17"          # e.g. YYYY-MM-DD
 # Specify the details of the instructors and helpers
 # Can be list, or single string
 instructor:
-<<<<<<< HEAD
   - "Philip Grylls"
   - "Samuel Mangham"
   - "James Graham"
