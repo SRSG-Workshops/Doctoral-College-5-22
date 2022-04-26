@@ -4,12 +4,14 @@
 # What kind of thing is this ("workshop" or "course")?
 kind: "workshop"
 
+
 # Overall title for the Workshop.
 # This variable is used to (optionally) add a title in the "jumbotron"
 # (the grey box at the top of the page), and to the extra pages.
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
+
 title: "Introductory Research Software Development with Python: Session"
 
 # Specify the location of the workshop
@@ -28,9 +30,11 @@ humantime: "09:30"      # e.g. "09:00-17:00"
 startdate: "2022-5-9"        # e.g. YYYY-MM-DD
 enddate: "2022-5-17"          # e.g. YYYY-MM-DD
 
+
 # Specify the details of the instructors and helpers
 # Can be list, or single string
 instructor:
+<<<<<<< HEAD
   - "Philip Grylls"
   - "Samuel Mangham"
   - "James Graham"
