@@ -70,7 +70,6 @@ There are many ways to contribute,
 from writing new exercises and improving existing ones
 to updating or filling in the documentation
 and submitting [bug reports][issues]
-
 about things that do not work, are not clear, or are missing.
 If you are looking for ideas, please see the 'Issues' tab for
 a list of issues associated with this repository,

@@ -21,7 +21,6 @@ license terms.
 
 Under the following terms:
 
-<<<<<<< HEAD
 * **Attribution**---You must give appropriate credit by:
   - mentioning that your work is derived from work that is
     Copyright © Software Carpentry, Data Carpentry, Library Carpentry,
