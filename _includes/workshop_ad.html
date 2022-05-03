@@ -8,7 +8,9 @@
       {% unless site.title == "Workshop Title" or site.title == "" %}
       <h1>{{site.title}}</h1>
       {% endunless %}
-      {% if site.venue == "online" %}
+      {% if site.kind == "course" %}
+      <h2>Self-learning course</h2>
+      {% elsif site.venue == "online" %}
       <h2>Online</h2>
       {% else %}
       <h2>{{site.venue}}</h2>
