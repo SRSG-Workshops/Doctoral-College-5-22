@@ -116,12 +116,12 @@ $ bash Anaconda3-2021.11-Linux-x86_64.sh
 {: .language-bash}
 
 Answer ‘yes’ to allow the installer to initialize Anaconda3 in your .bashrc.
-## Download Data for Git Lesson ##
+## Download Data for Python Lesson ##
 
-Now we are ready to download the code that we need for this lesson, using Git on the command line. Open a terminal on your machine, and enter:
+Now we are ready to download the code that we need for this lesson. Open a terminal on your machine, and enter:
 ~~~
 $ cd
-$ git clone https://github.com/Southampton-RSG-Training/swc-git-novice
+$ git clone https://github.com/Southampton-RSG-Training/swc-python-novice
 ~~~
 {: .language-bash}
 
