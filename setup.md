@@ -86,7 +86,7 @@ Finally, go to [your Settings -> SSH keys page and add a new SSH key](https://gi
 Now we are ready to download the code that we need for this lesson, using Git on the command line. Open a terminal on your machine, and enter:
 ~~~
 $ cd
-$ git clone https://github.com/Southampton-RSG/swc-git-novice
+$ git clone https://github.com/Southampton-RSG-Training/swc-git-novice
 ~~~
 {: .language-bash}
 
