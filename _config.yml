@@ -17,7 +17,7 @@ title: "Introductory Research Software Development with Python"
 # Specify the location of the workshop
 # TODO: needs documenting a lot better
 venue: "online"           # name of location use "online" if online
-address: "https://teams.microsoft.com/l/channel/19%3aU-CUc7-IAPZIdYdHkU_uWTZyEQ0YXCwN7qHcyNUwfYM1%40thread.tacv2/General?groupId=146dfff2-5b11-44c7-9341-c9865ffb7aaf&tenantId=4a5378f9-29f4-4d3e-be89-669d03ada9d8"
+address: "https://teams.microsoft.com/l/team/19%3aU-CUc7-IAPZIdYdHkU_uWTZyEQ0YXCwN7qHcyNUwfYM1%40thread.tacv2/conversations?groupId=146dfff2-5b11-44c7-9341-c9865ffb7aaf&tenantId=4a5378f9-29f4-4d3e-be89-669d03ada9d8"
 platform-name: "Teams"   # name of online platform e.g. Teams, Zoom e.t.c
 country: "gb"         # e.g. gb
 language: "en"        # e.g. en
