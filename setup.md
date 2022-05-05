@@ -108,7 +108,7 @@ Download the latest Anaconda Windows installer. Double-click the installer and f
 Download the latest Anaconda Mac OS X installer. Double-click the .pkg file and follow the instructions.
 
 ### Linux
-Download the latest Anaconda Linux Installer. Install via the terminal like this,
+Download the latest Anaconda Linux Installer. Install via the terminal like this (you will need to change the version number to the latest version):
 
 ~~~
 $ bash Anaconda3-2021.11-Linux-x86_64.sh
@@ -116,3 +116,15 @@ $ bash Anaconda3-2021.11-Linux-x86_64.sh
 {: .language-bash}
 
 Answer ‘yes’ to allow the installer to initialize Anaconda3 in your .bashrc.
+## Download Data for Git Lesson ##
+
+Now we are ready to download the code that we need for this lesson, using Git on the command line. Open a terminal on your machine, and enter:
+~~~
+$ cd
+$ git clone https://github.com/Southampton-RSG-Training/swc-git-novice
+~~~
+{: .language-bash}
+
+`cd` will move to your home directory, and `git clone` will download a copy of the materials.
+
+{% include links.md %}

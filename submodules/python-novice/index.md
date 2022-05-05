@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<p>This lesson will cover:</p>
+{% include blurb.html %}
+
+
 The best way to learn how to program is to do something useful, so this introduction to Python is built around a common scientific task: data analysis.
 
 Our real goal isn’t just to teach you Python, but to teach you the basic concepts that all programming depends on. We use Python in our lessons because:
