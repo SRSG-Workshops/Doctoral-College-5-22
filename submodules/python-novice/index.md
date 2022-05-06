@@ -29,7 +29,7 @@ Once you've done this, a window should appear. Type the following into the promp
 
 ~~~
 $ cd
-$ git clone https://github.com/Southampton-RSG/swc-python-novice-websci.git
+$ git clone https://github.com/Southampton-RSG-Training/python-novice.git
 ~~~
 {: .language-bash}
 
@@ -38,7 +38,7 @@ covered in the Git SWC course if you want to know more!) you can use the followi
 
 ~~~
 $ cd
-$ git clone git@github.com:Southampton-RSG/swc-python-novice-websci.git
+$ git clone git@github.com:Southampton-RSG-Training/python-novice.git
 ~~~
 {: .language-bash}
 
