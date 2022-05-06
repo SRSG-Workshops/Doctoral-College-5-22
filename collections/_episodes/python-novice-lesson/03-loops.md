@@ -1,4 +1,6 @@
 ---
+lesson_title: Building Programs with Python
+lesson_schedule_slug: python-novice-schedule
 # layout: page
 title: Repeating actions using loops
 slug: python-novice-repeating-actions-using-loops

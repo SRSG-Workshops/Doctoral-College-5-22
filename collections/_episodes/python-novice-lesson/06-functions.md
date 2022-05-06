@@ -1,4 +1,6 @@
 ---
+lesson_title: Building Programs with Python
+lesson_schedule_slug: python-novice-schedule
 # layout: page
 title: Modularising your code using functions
 slug: python-novice-modularising-your-code-using-functions

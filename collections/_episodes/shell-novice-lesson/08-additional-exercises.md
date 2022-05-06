@@ -1,4 +1,6 @@
 ---
+lesson_title: Automating Tasks with the Unix Shell
+lesson_schedule_slug: shell-novice-schedule
 title: "Additional Exercises"
 slug: shell-novice-additional-exercises
 teaching: 0

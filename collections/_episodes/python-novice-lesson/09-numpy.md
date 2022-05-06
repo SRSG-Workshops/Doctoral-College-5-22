@@ -1,4 +1,6 @@
 ---
+lesson_title: Building Programs with Python
+lesson_schedule_slug: python-novice-schedule
 # layout: page
 title: Reading and analysing Patient data using libraries
 slug: python-novice-reading-and-analysing-patient-data-using-libraries

@@ -1,4 +1,6 @@
 ---
+lesson_title: Automating Tasks with the Unix Shell
+lesson_schedule_slug: shell-novice-schedule
 title: Pipes and Filters
 slug: shell-novice-pipes-and-filters
 teaching: 15

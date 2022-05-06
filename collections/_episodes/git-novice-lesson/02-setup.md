@@ -1,4 +1,6 @@
 ---
+lesson_title: Version Control with git
+lesson_schedule_slug: git-novice-schedule
 title: "Setting Up Git"
 slug: git-novice-setting-up-git
 teaching: 5
